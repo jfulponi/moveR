@@ -1,0 +1,11 @@
+Package: moveR
+Type: Package
+Title: Urban toolkit for transportation analysis. 
+Version: 0.1.0
+Author: Juan Ignacio Fulponi
+Maintainer: Juan Ignacio Fulponi <jfulponi@economicas.uba.ar>
+Description: A mobility and urban planning toolkit for R Users.
+    
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
